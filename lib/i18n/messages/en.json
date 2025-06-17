@@ -1,0 +1,271 @@
+{
+  "metaData": {
+    "homepage": {
+      "title": "Smart home, Lighting, Lamps, Smart buildings | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "iHome - We make smart buildings live together with their users. Discover our capabilities in supporting building automation processes."
+    },
+    "reset-password": {
+      "title": "Reset Password | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Reset your password for your iHome store account. Benefit from our technical support in choosing smart devices and lighting. We provide convenient and secure login as well as comprehensive smart-home services. Join our community today!"
+    },
+    "login": {
+      "title": "Log in | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Log in to the professional iHome store. Get technical support in choosing intelligent devices and smart lighting. We offer convenient and secure login for you to enjoy comprehensive smart-home services. Join our community today!"
+    },
+    "forgot-password": {
+      "title": "Reset Password | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Reset your password for your iHome store account. Come back to us to benefit from our technical support in choosing smart devices and intelligent lighting. We offer convenient and secure login options so you can enjoy comprehensive smart home services. Come back to our community today!"
+    },
+    "registration": {
+      "title": "Sign in | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Reset your password for your iHome store account. Come back to us to benefit from our technical support in choosing smart devices and intelligent lighting. We offer convenient and secure login options so you can enjoy comprehensive smart home services. Come back to our community today!"
+    },
+    "404": {
+      "title": "404 - Error | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Oh no! It seems that there has been a mistake. Our iHome smart-home store cannot find the page you are looking for. Please check the correctness of the URL or use navigation to discover innovative solutions for a smart home. Immerse yourself in the world of automation and comfort with our range of products. Feel free to continue your search!"
+    },
+    "settings": {
+      "title": "Account Settings | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Customize your account settings in the iHome online store. Update your profile, manage personal data, and enjoy personalized online shopping. Familiarize yourself with our privacy policy and take advantage of our assistance at any time."
+    },
+    "cart": {
+      "title": "Cart | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Your cart at iHome store offering intelligent solutions for your home! Assemble the most innovative solutions to make your interior smart and functional. Add our latest products to your cart that will ease your daily life and provide exceptional comfort in your home. Explore a range of smart devices that will make your home even more exceptional."
+    },
+    "cart-account": {
+      "title": "Cart - Form | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Start a seamless ordering process now! Fill out the form on our online store iHome. Quickly, conveniently, and safely. Gain access to a wide range of products and start taking advantage of our attractive offers. Your shopping - your choice, with us, it's simple!"
+    },
+    "cart-summary": {
+      "title": "Cart - Summary | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Confirmation of order for iHome - thank you for making a purchase in our store! We appreciate your trust and the choice of our products. The iHome team is ready to provide you with an excellent shopping experience and reliable customer service. We are here to meet your expectations."
+    },
+    "my-addresses": {
+      "title": "My addresses | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Add, remove, and update your addresses effortlessly. All your addresses in one place - manage them with ease."
+    },
+    "edit-profile": {
+      "title": "Edit profile | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Customize your personal data, manage account preferences, and personalize your profile. Easily update information and adjust privacy settings, ensuring full control over your iHome Smart-Home account. Discover new possibilities and ensure your profile is always up-to-date."
+    },
+    "favourites": {
+      "title": "Favourites | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Add the most interesting products to your favourites list and easily track their availability and promotions. Find inspiration among the latest trends and discover why our store is the place where your dreams become reality. Feel free to browse our collection and create your unique list of favourite products today!"
+    },
+    "order-tracking": {
+      "title": "Order Tracking | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Track your shipment and stay updated with the current delivery status. Find out where your package is currently located. Monitor your order in real-time, track the shipment route, and expect a hassle-free delivery."
+    },
+    "order-details": {
+      "title": "Order Details | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Review the details of your order - monitor information related to your purchase. Check the current status, payment details, and track the delivery. Use our system to stay updated on the progress of fulfillment. Best customer service and fast delivery guaranteed."
+    },
+    "orders": {
+      "title": "My orders | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Stay informed about the current status and details of all your orders on our platform. Track the fulfillment process, delivery dates, and effortlessly manage your purchases. We provide transparency and convenience for you to easily monitor the history of your orders."
+    },
+    "product-details": {
+      "title": " | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Product details - discover everything you need to know to make an informed choice. Review comprehensive technical information, learn about unique features, and see how our product can meet your individual needs. High-quality photos and detailed descriptions will help you get closer to this product and appreciate its uniqueness."
+    },
+    "products": {
+      "title": "Products | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Discover the future of the smart home with our diverse range of Smart Home products. We provide innovative solutions that offer complete control over your home with just a click. Find the perfect devices, such as smart locks, thermostats, lighting, and cameras, that adapt to your lifestyle. Create a unique environment that combines functionality, comfort, and energy efficiency. Browse our Smart Home product list now and start transforming your surroundings into a place that responds to your needs."
+    },
+    "search": {
+      "title": "Search | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Find exactly what you're looking for using the search engine on our website. Enter keywords, phrases, or categories to quickly locate information, products, or content available on our portal. Use our search feature to save time and effortlessly access the products that interest you."
+    },
+    "configurator": {
+      "title": "Configurator | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Set up a smart home with our intuitive configurator. Choose the right devices, harmonize systems, and enjoy modern solutions for your home."
+    },
+    "admin-new-users": {
+      "title": "New profiles | iHome - Intelligent Devices and Smart Home | Smart-Home",
+      "description": "Effective management of new customer profiles. A convenient table facilitates quick recognition, token generation, and profile deletion."
+    }
+  },
+
+  "homepage": {
+    "about": "Go to the about page"
+  },
+  "common": {
+    "footer": {
+      "Follow us": "Follow us",
+      "Our Showrooms": "Our Showrooms",
+      "Contact": "Contact",
+      "Shop": "Shop",
+      "Regulations": "Regulations",
+      "Privacy Policy": "Privacy Policy",
+      "Privacy settings": "Privacy settings",
+
+      "Interior Design": "Interior Design",
+      "Photovoltaics": "Photovoltaics",
+      "Heat Pumps": "Heat Pumps",
+      "Heat Recovery Ventilation": "Heat Recovery Ventilation",
+      "Smart home": "Smart Home",
+      "Interior Finishing": "Interior Finishing",
+      "Audio": "Audio",
+      "Home staging": "Home staging",
+      "FAQ": "FAQ",
+      "Lamps": "Lamps",
+      "Fireplaces": "Fireplaces",
+      "Automation": "Automation",
+      "Furniture": "Furniture",
+      "Blog": "Blog",
+      "#decorating": "#decorating",
+      "#news": "#news",
+      "#inspirations": "#inspirations"
+    }
+  },
+  "components": {
+    "More": "More",
+    "Loading": "Loading",
+    "Next slide": "Next slide",
+    "Previous slide": "Previous slide",
+    "Close": "Close",
+    "Search": "Search...",
+    "No results found": "No results found.",
+    "Clear": "Clear",
+    "Previous": "Previous",
+    "Next": "Next",
+    "More pages": "More pages"
+  },
+  "hooks": {
+    "Login failed": "Login failed",
+    "Logged in": "Logged in",
+    "E-mail is required": "E-mail is required",
+    "Password is required": "Password is required",
+    "Incorrect login": "Incorrect login and/or password or the account is inactive",
+    "Error - provided login": "Error - provided login already\u00A0exists",
+    "Error - administrator role": "Error - administrator role doesn't\u00A0exist.",
+    "Error - you don't have": "Error - you don't have permission to perform this\u00A0operation",
+    "Error - failed": "Error - failed to add\u00A0administrator",
+    "New administrator": "New administrator has been\u00A0added",
+    "Invalid token": "Invalid token",
+    "Error - registration failed": "Error - registration failed",
+    "Provided email address": "Provided email address is associated with an existing account",
+    "Fill in all the fields": "Fill in all the fields",
+    "Registration failed": "Registration failed",
+    "Current password is required": "Current password is required",
+    "New password is required": "New password is required",
+    "Current password is incorrect": "Current password is incorrect",
+    "This account is blocked": "This account is blocked",
+    "Password change failed": "Password change failed",
+    "To change your password": "Error - please log in to your account to change your password",
+    "Please log in again": "Please log in again",
+    "Failed to delete": "Failed to delete the address",
+    "To delete address": "Error - please log in to your account to delete the address",
+    "Error - address ID": "Error - address ID not found",
+    "The address has been": "The address has been deleted",
+    "The billing address": "The billing address cannot be deleted",
+    "The shipping address": "The shipping address cannot be deleted",
+
+    "To update address": "Error - please log in to your account to update the address",
+    "Choose at least one option": "Choose at least one option",
+    "The address update was unsuccessful": "The address update was unsuccessful",
+    "The address has been updated": "The address has been updated",
+
+    "To create address": "Error - sign in to your account to create an address",
+    "Failed to create address": "Failed to create address",
+    "The address has been created": "The address has been created",
+
+    "To update email": "Error - please log in to your account to update e-mail",
+
+    "Incorrect email": "Incorrect e-mail and/or password",
+    "Failed to update email": "Failed to update e-mail",
+    "Failed to subscribe": "Failed to subscribe to the newsletter",
+    "Invalid email": "Invalid email",
+    "Log in to subscribe": "Log in to subscribe to the newsletter",
+    "This email address is already": "The email address is already subscribed",
+    "Email has been subscribed": "E-mail has been subscribed to the newsletter",
+
+    "Failed to add": "Error - failed to add the product to the cart",
+    "Error - could not find the product": "Error - couldn't find the product",
+    "Error - the product is unavailable": "Error - the product is unavailable",
+    "The product has been added to the cart": "The product has been added to the cart",
+
+    "Failed to add the product to favourites": "Failed to add the product to favourites",
+    "The product has been added to favourites": "The product has been added to favourites",
+    "The discount code is already applied": "The discount code is already applied. Remove it to apply another",
+    "Cart does not contain products": "Error - code cannot be applied to an empty cart",
+    "Failed to add the code": "Error - failed to add the code to the cart",
+    "The code is invalid": "The code is invalid",
+    "You do not have permission": "You don't have permission to perform this operation",
+    "The code has been added": "The code has been added to the cart",
+
+    "Failed to place order": "Failed to place order",
+    "The cart isn't active": "The cart isn't active",
+    "Email is required": "E-mail is required",
+    "Failed to place an order - the cart is empty": "Failed to place an order - the cart is empty",
+    "Incorrect shipping address": "Incorrect shipping address",
+    "The shipping method is missing": "The shipping method is missing",
+    "The billing address is missing": "The billing address is missing",
+    "The payment method is missing": "The payment method is missing",
+    "Some of the products are out of stock": "Some of the products are out of stock",
+    "Failed to remove code - the cart is empty": "Failed to remove code - the cart is empty",
+    "Failed to remove code": "Failed to remove code",
+    "Failed to remove code - incorrect cart ID": "Failed to remove code - incorrect cart ID",
+    "The code has been removed": "The code has been removed",
+
+    "The cart does not contain a product with this ID": "The cart does not contain a product with this ID",
+    "Failed to remove item": "Failed to remove item",
+    "The product has been removed": "The product has been removed",
+
+    "Failed to set shipping address": "Failed to set shipping address",
+
+    "Failed to set shipping method": "Failed to set shipping method",
+    "Selected shipping method is unavailable": "Selected shipping method is unavailable",
+    "Failed to set shipping method - the cart is empty": "Failed to set shipping method - the cart is empty",
+    "You can set only one shipping method": "You can set only one shipping method",
+    "The shipping method has been added": "The shipping method has been added",
+
+    "Failed to update cart": "Failed to update cart",
+    "The cart has been updated": "The cart has been updated",
+    "Select variants": "Select variants",
+    "The requested quantity is unavailable": "The requested quantity is unavailable",
+    "Maximum allowed quantity exceeded": "Maximum allowed quantity exceeded",
+    "Wishlist not found": "Error - wishlist not found",
+    "Failed to update wishlist": "Failed to update wishlist",
+    "Wishlist has been updated": "Wishlist has been updated",
+    "Failed to send an email": "Failed to send an email",
+    "The email has been sent": "The email has been sent",
+
+    "Failed to reset password": "Failed to reset password",
+    "Password has been changed": "Password has been changed",
+
+    "Maximum quantity": "The maximum quantity of this product in the cart has been exceeded (10 000)",
+    "Requested quantity": "the requested quantity is not available",
+    "Cannot add more than": "Cannot add more than 10 000 pcs of the product",
+
+    "The products have been added to the cart": "The products have been added to the cart",
+    "Failed to add items": "Failed to add items",
+
+    "You've been logged out": "You've been logged out",
+
+    "Failed to find a cart": "Failed to find a cart with the provided ID",
+    "Failed to read the cart identifier": "Failed to read the cart identifier",
+    "Failed to read the code": "Failed to read the code for the payment method",
+    "Selected payment method is unavailable": "Selected payment method is unavailable",
+    "Failed to read the shipping address": "Failed to read the shipping address",
+    "Failed to set payment method": "Failed to set payment method",
+
+    "Credit card": "Credit cards",
+
+    "The cart ID has already been used": "The cart ID has already been used",
+    "The cart ID has an incorrect length": "The cart ID has an incorrect length",
+    "Failed to create cart": "Failed to create cart",
+
+    "Product not found": "Product not found",
+
+    "Failed to set email on cart": "Failed to set email on cart",
+    "Failed to set billing address": "Failed to set billing address",
+
+    "Missing first name in shipping address": "Missing first name in shipping address",
+    "Missing last name in shipping address": "Missing last name in shipping address",
+    "Missing city in shipping address": "Missing city in shipping address",
+    "Missing street in shipping address": "Missing street in shipping address",
+    "Missing country in shipping address": "Missing country in shipping address",
+    "Missing address in shipping address": "Missing shipping_addresses attribute  in shipping address"
+  }
+}

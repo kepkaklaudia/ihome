@@ -1,0 +1,276 @@
+{
+  "metaData": {
+    "homepage": {
+      "title": "Smart home, Oświetlenie, Lampy, Inteligentne budynki | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "iHome - sprawiamy, że inteligentne budynki żyją razem ze swoimi użytkownikami. Poznaj nasze możliwości wsparcia w procesach automatyki budynków."
+    },
+    "reset-password": {
+      "title": "Resetuj Hasło | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Zresetuj hasło do swojego konta w sklepie iHome. Skorzystaj z naszego wsparcia technicznego przy wyborze inteligentnych urządzeń i oświetlenia. Zapewniamy wygodne i bezpieczne logowanie oraz kompleksowe usługi smart-home. Dołącz do naszej społeczności już dziś!"
+    },
+    "login": {
+      "title": "Zaloguj się | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Zaloguj się do profesjonalnego sklepu iHome. Uzyskaj wsparcie techniczne w wyborze inteligentych urządzeń oraz inteligentnego oświetlenia. Oferujemy wygodne i bezpieczne logowanie, byś mógł cieszyć się kompleksowymi usługami smart-home. Dołącz do naszej społeczności już dziś!"
+    },
+    "forgot-password": {
+      "title": "Zresetuj Hasło | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Zresetuj hasło do Twojego konta w sklepie iHome. Wróć do nas, aby skorzystać z naszego wsparcia technicznego w wyborze inteligentnych urządzeń oraz inteligentnego oświetlenia. Oferujemy wygodne i bezpieczne logowanie, byś mógł cieszyć się kompleksowymi usługami smart-home. Wróć do naszej społeczności już dziś!"
+    },
+    "registration": {
+      "title": "Zarejestruj się | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Zresetuj hasło do Twojego konta w sklepie iHome. Wróć do nas, aby skorzystać z naszego wsparcia technicznego w wyborze inteligentnych urządzeń oraz inteligentnego oświetlenia. Oferujemy wygodne i bezpieczne logowanie, byś mógł cieszyć się kompleksowymi usługami smart-home. Wróć do naszej społeczności już dziś!"
+    },
+    "404": {
+      "title": "Błąd 404 | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "O nie! Wydaje się, że zaszła jakaś pomyłka. Nasz sklep iHome ze smart-home nie może znaleźć strony, której szukasz. Sprawdź poprawność adresu URL lub skorzystaj z nawigacji, aby odkryć innowacyjne rozwiązania dla inteligentnego domu. Zanurz się w świecie automatyzacji i komfortu z naszym asortymentem. Zapraszamy do dalszego poszukiwania!"
+    },
+    "settings": {
+      "title": "Ustawienia konta | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Dostosuj ustawienia Twojego konta w sklepie internetowym iHome. Zaktualizuj swój profil, zarządzaj danymi osobowymi i ciesz się spersonalizowanymi zakupami online. Zapoznaj się z naszą polityką prywatności i skorzystaj  z naszej pomocy w każdym momencie."
+    },
+    "cart": {
+      "title": "Koszyk | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Twój koszyk w sklepie iHome oferującym inteligentne rozwiązania do Twojego domu! Skompletuj najbardziej innowacyjne rozwiązania, aby uczynić Twoje wnętrze inteligentnym i funkcjonalnym. Dodaj do koszyka nasze najnowsze produkty, które ułatwią codzienne życie i zapewnią wyjątkowy komfort w Twoim domu. Odkryj gamę inteligentnych urządzeń, które sprawią, że Twój dom stanie się jeszcze bardziej wyjątkowy."
+    },
+    "cart-account": {
+      "title": "Koszyk - Formularz | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Rozpocznij bezproblemowy proces składania zamówienia już teraz! Wypełnij formularz w naszym sklepie internetowym iHome. Szybko, wygodnie i bezpiecznie. Uzyskaj dostęp do szerokiej gamy produktów i zacznij korzystać z naszych atrakcyjnych ofert. Twoje zakupy - twój wybór, z nami to proste!"
+    },
+    "cart-summary": {
+      "title": "Koszyk - Podsumowanie | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Potwierdzenie zamówienia na iHome – dziękujemy za dokonanie zakupu w naszym sklepie! Dziękujemy za zaufanie i wybór naszych produktów. Zespół iHome jest gotów dostarczyć Ci doskonałe doświadczenie zakupowe oraz niezawodną obsługę klienta. Jesteśmy tu, aby sprostać Twoim oczekiwaniom."
+    },
+    "my-addresses": {
+      "title": "Moje adresy | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Dodawaj, usuwaj i aktualizuj Twoje adresy bez trudu. Wszystkie Twoje adresy w jednym miejscu - zarządzaj nimi z łatwością."
+    },
+    "edit-profile": {
+      "title": "Edytuj profil | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Dostosuj swoje dane osobowe, zarządzaj preferencjami konta i personalizuj swój profil. Z łatwością aktualizuj informacje i dostosowuj ustawienia prywatności, zapewniając sobie pełną kontrolę nad swoim kontem w sklepie iHome Smart-Home. Odkryj nowe możliwości i spraw, aby Twój profil był zawsze aktualny."
+    },
+    "favourites": {
+      "title": "Ulubione | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Dodaj najciekawsze produkty do listy ulubionych i z łatwością śledź ich dostępność oraz promocje. Znajdź inspirację wśród najnowszych trendów i odkryj, dlaczego nasz sklep jest miejscem, gdzie Twoje marzenia stają się rzeczywistością. Zapraszamy do przeglądania naszej kolekcji i tworzenia swojej unikalnej listy ulubionych produktów już dziś!"
+    },
+    "order-tracking": {
+      "title": "Śledzenie przesyłki | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Śledź swoją przesyłkę i bądź na bieżąco z aktualnym statusem dostawy. Dowiedz się, gdzie aktualnie znajduje się Twoja paczka. Monitoruj swoje zamówienie w czasie rzeczywistym, śledź trasę przesyłki i oczekuj na bezproblemową dostawę."
+    },
+    "order-details": {
+      "title": "Szczegóły zamówienia | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Zapoznaj się ze szczegółami zamówienia - kontroluj informacje dotyczące swojego zamówienia. Sprawdź aktualny status, płatność oraz śledź dostawę. Skorzystaj z naszego systemu i bądź na bieżąco z postępem realizacji. Najlepsza obsługa klienta i szybka dostawa."
+    },
+    "orders": {
+      "title": "Moje zamówienia | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Sprawdź bieżący status i szczegóły wszystkich swoich zamówień na naszej platformie. Śledź proces realizacji, daty dostawy i łatwo zarządzaj swoimi zakupami. Zapewniamy transparentność i wygodę w śledzeniu historii Twoich zamówień."
+    },
+    "product-details": {
+      "title": " | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Szczegóły produktu - odkryj wszystko, co potrzebujesz wiedzieć, aby dokonać świadomego wyboru. Przejrzyj kompleksowe informacje techniczne, dowiedz się o unikalnych funkcjach oraz zobacz, jak nasz produkt może zaspokoić Twoje indywidualne potrzeby. Zdjęcia wysokiej jakości oraz obszerne opisy pomogą Ci zbliżyć się do tego produktu i docenić jego wyjątkowość."
+    },
+    "products": {
+      "title": "Produkty | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Odkryj przyszłość inteligentnego domu dzięki naszej różnorodnej gamie produktów Smart Home. Zapewniamy innowacyjne rozwiązania, które umożliwiają pełną kontrolę nad Twoim domem za pomocą jednego kliknięcia. Znajdź idealne urządzenia, takie jak inteligentne zamki, termostaty, oświetlenie i kamery, które dostosują się do Twojego stylu życia. Stwórz wyjątkowe środowisko, które łączy funkcjonalność, komfort i efektywność energetyczną. Przeglądaj naszą listę produktów Smart Home już teraz i zacznij transformować swoje otoczenie w miejsce, które reaguje na Twoje potrzeby."
+    },
+    "search": {
+      "title": "Wyszukiwarka | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Znajdź dokładnie to, czego szukasz za pomocą wyszukiwarki na naszej stronie internetowej. Wprowadź słowa kluczowe, frazy lub kategorie, aby szybko odnaleźć informacje, produkty lub treści dostępne na naszym portalu. Wykorzystaj naszą wyszukiwarkę, aby oszczędzić czas i z łatwością dotrzeć do interesujących Cię produktów."
+    },
+    "configurator": {
+      "title": "Konfigurator | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Skonfiguruj inteligentny dom z naszym intuicyjnym konfiguratorem. Wybierz odpowiednie urządzenia, harmonizuj systemy i ciesz się nowoczesnymi rozwiązaniami dla Twojego domu."
+    },
+    "admin-new-users": {
+      "title": "Nowe profile | iHome - Inteligentne Urządzenia i Inteligentny Dom | Smart-Home",
+      "description": "Skuteczne zarządzanie nowymi profilami klientów. Wygodna tabela ułatwia szybkie rozpoznawanie, generowanie tokenów i usuwanie profili."
+    }
+  },
+
+  "homepage": {
+    "about": "Idź do głównej"
+  },
+  "common": {
+    "footer": {
+      "Follow us": "Zaobserwuj nas",
+      "Our Showrooms": "Nasze Showroomy",
+      "Contact": "Kontakt",
+      "Services": "Usługi",
+      "Shop": "Sklep",
+      "Regulations": "Regulaminy",
+      "Privacy Policy": "Polityka prywatności",
+      "Privacy settings": "Ustawienia prywatności",
+
+      "Interior Design": "Projekty wnętrz",
+      "Photovoltaics": "Fotowoltaika",
+      "Heat Pumps": "Pompy ciepła",
+      "Heat Recovery Ventilation": "Rekuperacja",
+      "Smart home": "Smart Home",
+      "Interior Finishing": "Wykończenie wnętrz",
+      "Audio": "Audio",
+      "Home staging": "Home Staging",
+      "FAQ": "FAQ",
+      "Lamps": "Lampy",
+      "Fireplaces": "Kominiki",
+      "Automation": "Automatyka",
+      "Furniture": "Meble",
+      "Blog": "Blog",
+      "#decorating": "#urządzamy",
+      "#news": "#nowości",
+      "#inspirations": "#inspiracje"
+    }
+  },
+  "components": {
+    "More": "Więcej",
+    "Loading": "Ładowanie",
+    "Next slide": "Nastepny slajd",
+    "Previous slide": "Poprzedni slajd",
+    "Close": "Zamknij",
+    "Search": "Wyszukaj...",
+    "No results found": "Nie znaleziono wyników",
+    "Clear": "Wyczyść",
+    "Previous": "Poprzedni",
+    "Next": "Następna",
+    "More pages": "Więcej stron"
+  },
+  "hooks": {
+    "Login failed": "Logowanie nie powiodło\u00A0się",
+    "Logged in": "Zalogowano",
+    "E-mail is required": "E-mail jest wymagany",
+    "Password is required": "Hasło jest wymagane",
+    "Incorrect login": "Błędny login lub/i hasło albo konto jest nieaktywne",
+    "Error - provided login": "Błąd - podany login już\u00A0istnieje",
+    "Error - administrator role": "Błąd - rola administratora nie\u00A0istnieje",
+    "Error - you don't have": "Błąd - nie masz uprawnień aby wykonać tę\u00A0operację",
+    "Error - failed": "Błąd - nie udało się dodać\u00A0administratora",
+    "New administrator": "Nowy administrator został\u00A0dodany",
+    "Invalid token": "Błędny token",
+    "Error - registration failed": "Błąd - rejestracja nie powiodła się",
+    "Provided email address": "Podany adres e-mail jest przypisany do istniejącego konta",
+    "Fill in all the fields": "Wypełnij wszystkie pola",
+    "Registration failed": "Rejestracja nie powiodła\u00A0się",
+    "Current password is required": "Obecne hasło jest wymagane",
+    "New password is required": "Nowe hasło jest wymagane",
+    "Current password is incorrect": "Obecne hasło jest nieprawidłowe",
+    "This account is blocked": "To konto jest zablokowane",
+    "Password change failed": "Zmiana hasła nie powiodła\u00A0się",
+    "To change your password": "Błąd - zaloguj się na swoje konto, aby zmienić hasło",
+    "Please log in again": "Proszę zalogować się ponownie",
+    "Failed to delete": "Nie udało się usunąć adresu",
+    "To delete address": "Błąd - zaloguj się na swoje konto, aby usunąć adres",
+    "Error - address ID": "Błąd - nie znaleziono ID adresu",
+    "The address has been": "Adres został usunięty",
+    "The billing address": "Nie można usunąć adresu rozliczeniowego",
+    "The shipping address": "Nie można usunąć adresu wysyłki",
+
+    "To update address": "Błąd - zaloguj się na swoje konto, aby zaktualizować adres",
+    "Choose at least one option": "Wybierz przynajmniej jedną opcję",
+    "The address update was unsuccessful": "Nie udało się zaktualizować adresu",
+    "The address has been updated": "Adres został zaktualizowany",
+
+    "To create address": "Błąd - zaloguj się na swoje konto, aby utworzyć adres",
+    "Failed to create address": "Nie udało się utworzyć adresu",
+    "The address has been created": "Adres został utworzony",
+
+    "To update email": "Błąd - zaloguj się na swoje konto, aby zmienić e-mail",
+
+    "Incorrect email": "Niepoprawny e-mail lub/i hasło",
+    "Failed to update email": "Nie udało się zmienić e-mail",
+    "Failed to subscribe": "Nie udało się zapisać do newslettera",
+    "Invalid email": "Nieprawidłowy email",
+    "Log in to subscribe": "Zaloguj się, aby zapisać się do newslettera",
+    "This email address is already": "Adres e-mail jest już zapisany",
+    "Email has been subscribed": "E-mail został zapisany w newsletterze",
+
+    "Failed to add": "Błąd - nie udało się dodać produktu do koszyka",
+    "Error - could not find the product": "Błąd - nie udało się znaleźć produktu",
+    "Error - the product is unavailable": "Błąd - produkt jest niedostępny",
+    "The product has been added to the cart": "Produkt został dodany do koszyka",
+
+    "Failed to add the product to favourites": "Nie udało się dodać produktu do ulubionych",
+    "The product has been added to favourites": "Produkt został dodany do ulubionych",
+    "The discount code is already applied": "Kod rabatowy został już zastosowany. Usuń go, aby zastosować inny",
+    "Cart does not contain products": "Błąd - kod nie może być zastosowany do pustego koszyka",
+    "Failed to add the code": "Błąd - nie udało się dodać kodu do koszyka",
+    "The code is invalid": "Kod jest nieprawidłowy",
+    "You do not have permission": "Nie masz uprawnień, aby wykonać tę operację",
+    "The code has been added": "Kod został dodany do koszyka",
+
+    "Failed to place order": "Nie udało się złożyć zamówienia",
+    "The cart isn't active": "Koszyk jest nieaktywny",
+    "Email is required": "E-mail jest wymagany",
+    "Failed to place an order - the cart is empty": "Nie udało się złożyć zamówienia - koszyk jest pusty",
+    "Incorrect shipping address": "Błędny adres wysyłki",
+    "The shipping method is missing": "Brak metody wysyłki",
+    "The billing address is missing": "Brak adresu rozliczeniowego",
+    "The payment method is missing": "Brak metody płatności",
+    "Some of the products are out of stock": "Niektóre produkty są niedostępne",
+    "Failed to remove code - the cart is empty": "Nie udało się usunąć kodu - koszyk jest pusty",
+    "Failed to remove code": "Nie udało się usunąć kodu",
+    "Failed to remove code - incorrect cart ID": "Nie udało się usunąć kodu - błędne ID koszyka",
+    "The code has been removed": "Kod został usunięty",
+
+    "The cart does not contain a product with this ID": "Koszyk nie zawiera produktu o tym ID",
+    "Failed to remove item": "Nie udało się usunąć produktu",
+    "The product has been removed": "Produkt został usunięty",
+
+    "Failed to set shipping address": "Nie udało się ustawić adresu dostawy",
+
+    "Failed to set shipping method": "Nie udało się ustawić sposobu dostawy",
+    "Selected shipping method is unavailable": "Wybrana metoda dostawy jest niedostępna",
+    "Failed to set shipping method - the cart is empty": "Nie udało się ustawić sposobu dostawy - koszyk jest pusty",
+    "You can set only one shipping method": "Możesz ustawić tylko jedną metodę wysyłki",
+    "The shipping method has been added": "Metoda wysyłki została dodana",
+
+    "Failed to update cart": "Nie udało się zaktualizować koszyka",
+    "The cart has been updated": "Koszyk został zaktualizowany",
+    "Select variants": "Wybierz warianty",
+    "The requested quantity is unavailable": "Żądana ilość jest niedostępna",
+    "Maximum allowed quantity exceeded": "Przekroczono maksymalną dozwoloną ilość",
+    "Wishlist not found": "Błąd - nie znaleziono listy ulubionych",
+    "Failed to update wishlist": "Nie udało się zaktualizować listy ulubionych",
+    "Wishlist has been updated": "Lista ulubionych została zaktualizowana",
+    "Failed to send an email": "Nie udało się wysłać wiadomości e-mail",
+    "The email has been sent": "E-mail został wysłany",
+
+    "Failed to reset password": "Nie udało się zresetować hasła",
+    "Password has been changed": "Hasło zostało zmienione",
+
+    "Maximum quantity": "Przekroczono maksymalną ilosć tego produktu w koszyku (10 000)",
+    "Requested quantity": "Żądana ilość jest niedostępna",
+    "Cannot add more than": "Nie można dodać więcej niż 10 000 szt. produktu",
+
+    "The products have been added to the cart": "Produkty zostały dodane do koszyka",
+    "Failed to add items": "Nie udało się dodać produktów",
+
+    "You've been logged out": "Zostałeś wylogowany",
+
+    "Failed to find a cart": "Nie udało się znaleźć koszyka o podanym ID",
+    "Failed to read the cart identifier": "Nie udało się odczytać identyfikatora koszyka",
+    "Failed to read the code": "Nie udało się odczytać kodu dla metody płatności",
+    "Selected payment method is unavailable": "Wybrana metoda płatności jest niedostępna",
+    "Failed to read the shipping address": "Nie udało się odczytać adresu wysyłki",
+    "Failed to set payment method": "Nie udało się ustawić metody płatności",
+
+    "Credit card": "Karta płatnicza",
+
+    "The cart ID has already been used": "Podany identyfikator koszyka został już użyty",
+    "The cart ID has an incorrect length": "Długość identyfikatora koszyka jest nieprawidłowa",
+    "Failed to create cart": "Nie udało się utworzyć koszyka",
+
+    "Product not found": "Nie znaleziono produktu",
+
+    "Failed to set email on cart": "Nie udało się przypisać adresu e-mail do koszyka",
+    "Failed to set billing address": "Nie udało się przypisać adresu rozliczeniowego",
+
+    "Missing first name in shipping address": "Brak imienia w adresie dostawy",
+    "Missing last name in shipping address": "Brak nazwiska w adresie dostawy",
+
+    "Missing city in shipping address": "Brak miasta w adresie dostawy",
+
+    "Missing street in shipping address": "Brak ulicy w adresie dostawy",
+
+    "Missing country in shipping address": "Brak kraju w adresie dostawy",
+
+    "Missing address in shipping address": "Brak atrybutu shipping_addresses w adresie dostawy"
+  }
+}
