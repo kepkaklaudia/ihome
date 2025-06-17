@@ -1,0 +1,4 @@
+fragment AvailableRegionsBasicData on Region {
+  id
+  name
+}

@@ -1,0 +1,6 @@
+query CustomerToken {
+  customerToken {
+    token
+    valid
+  }
+}

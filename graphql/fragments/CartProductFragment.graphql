@@ -1,0 +1,19 @@
+fragment CartProductFragment on ProductInterface {
+  name
+  sku
+  url_key
+  stock_status
+  image {
+    url
+  }
+  description {
+    html
+  }
+  price_range {
+    minimum_price {
+      regular_price {
+        value
+      }
+    }
+  }
+}

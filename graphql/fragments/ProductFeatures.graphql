@@ -1,0 +1,67 @@
+fragment ProductFeatures on ProductInterface {
+  name
+  sku
+  image {
+    url
+  }
+  description {
+    html
+  }
+  media_gallery {
+    label
+    url
+  }
+  special_price
+  categories {
+    url_path
+    url_key
+    level
+    name
+    breadcrumbs {
+      category_url_path
+      category_url_key
+      category_level
+      category_name
+    }
+  }
+  price_range {
+    minimum_price {
+      regular_price {
+        value
+        currency
+      }
+      final_price {
+        value
+        currency
+      }
+    }
+  }
+
+  ... on ConfigurableProduct {
+    variants {
+      product {
+        name
+        sku
+        media_gallery {
+          url
+          label
+        }
+      }
+      attributes {
+        code
+        uid
+      }
+    }
+    configurable_options {
+      ...ProductConfiguration
+    }
+    configurable_product_options_selection(
+      configurableOptionValueUids: $selectedIds
+    ) {
+      options_available_for_selection {
+        attribute_code
+        option_value_uids
+      }
+    }
+  }
+}

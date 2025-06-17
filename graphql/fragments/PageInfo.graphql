@@ -1,0 +1,5 @@
+fragment PageInfoField on SearchResultPageInfo {
+  current_page
+  page_size
+  total_pages
+}

@@ -1,0 +1,15 @@
+fragment CartCustomerShippingAddressFragment on ShippingCartAddress {
+  uid
+  postcode
+  city
+  street
+  telephone
+  country {
+    code
+  }
+  region {
+    region_id
+  }
+  firstname
+  lastname
+}

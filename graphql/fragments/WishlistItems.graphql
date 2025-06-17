@@ -1,0 +1,28 @@
+fragment WishlistItemsField on WishlistItems {
+  items {
+    id
+    quantity
+    product {
+      special_price
+      image {
+        url
+      }
+      name
+      description {
+        html
+      }
+      price_range {
+        minimum_price {
+          regular_price {
+            value
+          }
+          final_price {
+            value
+          }
+        }
+      }
+      url_key
+      sku
+    }
+  }
+}

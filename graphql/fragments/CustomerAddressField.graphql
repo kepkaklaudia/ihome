@@ -1,0 +1,16 @@
+fragment CustomerAddressField on CustomerAddress {
+  id
+  firstname
+  lastname
+  street
+  city
+  postcode
+  country_code
+  telephone
+  default_billing
+  default_shipping
+  region {
+    region
+    region_id
+  }
+}

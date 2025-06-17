@@ -1,0 +1,15 @@
+fragment ProductConfiguration on ConfigurableProductOptions {
+  uid
+  attribute_code
+  label
+  values {
+    uid
+    label
+    swatch_data {
+      ... on ImageSwatchData {
+        thumbnail
+      }
+      value
+    }
+  }
+}

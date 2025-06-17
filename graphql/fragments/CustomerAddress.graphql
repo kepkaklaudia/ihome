@@ -1,0 +1,13 @@
+fragment AddressFragment on CustomerAddress {
+  id
+  city
+  postcode
+  country_code
+  street
+  default_billing
+  default_shipping
+  firstname
+  lastname
+  middlename
+  telephone
+}

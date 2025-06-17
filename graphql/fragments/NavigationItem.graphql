@@ -1,0 +1,11 @@
+fragment NavigationItem on CategoryTree {
+  uid
+  include_in_menu
+  name
+  url_path
+  url_key
+  breadcrumbs {
+    category_name
+  }
+  level
+}

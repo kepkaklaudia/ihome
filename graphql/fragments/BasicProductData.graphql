@@ -1,0 +1,23 @@
+fragment BasicProductDataFragment on ProductInterface {
+  __typename
+  id
+  name
+  sku
+  url_key
+  small_image {
+    url
+  }
+  price_range {
+    minimum_price {
+      final_price {
+        currency
+        value
+      }
+      regular_price {
+        currency
+        value
+      }
+    }
+  }
+  special_price
+}

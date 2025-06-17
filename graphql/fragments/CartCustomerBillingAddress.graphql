@@ -1,0 +1,12 @@
+fragment CartCustomerBillingAddressFragment on BillingCartAddress {
+  uid
+  postcode
+  city
+  street
+  telephone
+  country {
+    code
+  }
+  firstname
+  lastname
+}

@@ -1,0 +1,14 @@
+fragment OrderAddressField on OrderAddress {
+  city
+  company
+  country_code
+  firstname
+  lastname
+  postcode
+  region
+  region_id
+  street
+  suffix
+  telephone
+  vat_id
+}
