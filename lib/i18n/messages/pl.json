@@ -117,6 +117,16 @@
       "#decorating": "#urządzamy",
       "#news": "#nowości",
       "#inspirations": "#inspiracje"
+    },
+    "sheet": {
+      "Log in": "Zaloguj się",
+      "Configurator": "Konfigurator",
+      "Settings": "Ustawienia",
+      "Orders": "Zamówienia",
+      "Home": "Strona główna"
+    },
+    "languageSelector": {
+      "Change language": "Change language"
     }
   },
   "components": {
