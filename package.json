@@ -49,6 +49,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@graphql-codegen/cli": "^5.0.7",
+    "@graphql-codegen/introspection": "4.0.3",
     "@parcel/watcher": "^2.5.1",
     "@svgr/webpack": "^8.1.0",
     "@tailwindcss/postcss": "^4",
