@@ -6,5 +6,5 @@ import fragments from "@/gql/fragments.json";
 
 export const cache = new InMemoryCache({
   typePolicies,
-  possibleTypes: fragments.possibleTypes //TODO Aktualnie fragmenty są generowane za pomocą codegen:types
+  possibleTypes: fragments.possibleTypes, //TODO Aktualnie fragmenty są generowane za pomocą codegen:types
 });
