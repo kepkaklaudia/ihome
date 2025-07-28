@@ -140,7 +140,31 @@
     "Clear": "Clear",
     "Previous": "Previous",
     "Next": "Next",
-    "More pages": "More pages"
+    "More pages": "More pages",
+
+    "loginModal": {
+      "Log in to your account": "Log in to your account",
+      "Log in": "Log in"
+    },
+
+    "countrySelector": {
+      "Choose a country dots": "Choose a country...",
+      "Search for a country": "Search for a country...",
+      "Choose a country": "Choose a country",
+      "No countries": "No countries",
+      "Country": "Country",
+      "Region": "Region",
+      "Choose a region dots": "Choose region...",
+      "Search for a region": "Search for a region...",
+      "Choose a region": "Choose a region",
+      "No regions": "No regions"
+    },
+
+    "dashedField": {
+      "The field accepts only numbers": "The field accepts only numbers",
+      "This field is required": "This field is required",
+      "Incorrect number of digits": "Incorrect number of digits"
+    }
   },
   "hooks": {
     "Login failed": "Login failed",
