@@ -3,7 +3,12 @@ import Image from "next/image";
 import { useParams } from "next/navigation";
 import { useMenu } from "@/hooks/useMenu";
 import { usePathname } from "@/lib/i18n/navigation";
-import { Sheet, SheetContent, SheetTrigger,  SheetTitle } from "@/components/ui/sheet";
+import {
+  Sheet,
+  SheetContent,
+  SheetTrigger,
+  SheetTitle,
+} from "@/components/ui/sheet";
 import { LoginSection } from "@/components/common/Sheet/loginSection";
 import { LanguageSelector } from "@/components/common/LanguageSelector";
 import { StaticMenu } from "@/components/common/Sheet/staticMenu";
@@ -46,7 +51,7 @@ export const Menu = () => {
         <div>
           <Image
             alt=""
-            className="stroke-white fill-white color-white"
+            className="stroke-white fill-white color-white cursor-pointer"
             src="/hamburger.svg"
             width={60}
             height={60}
@@ -54,7 +59,7 @@ export const Menu = () => {
         </div>
       </SheetTrigger>
       <SheetContent>
-        <SheetTitle/>
+        <SheetTitle />
         {categoryPath.length === 0 && (
           <>
             <Wrapper>
